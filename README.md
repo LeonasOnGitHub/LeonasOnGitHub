@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonas von Medem</h1>
-<h3 align="center">I’m studying Computer Science and work as a Software Developer</h3>
+<h3 align="center">I studyied Computer Science and work as a Software Developer</h3>
 
 - 🔭 I’m currently working at [PK System](https://pksystems.net/)
 
