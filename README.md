@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonas von Medem</h1>
 <h3 align="center">I studyied Computer Science and work as a Software Developer</h3>
 
-- 🔭 I’m currently working at [PK System](https://pksystems.net/)
+-  I’m currently working at [PK System](https://pksystems.net/)
 
-- 📫 How to reach me **leonas.medem@gmx.de**
+-  How to reach me **leonas.medem@gmx.de**
+
+- Visit my Website [LeVoMe](levome.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
