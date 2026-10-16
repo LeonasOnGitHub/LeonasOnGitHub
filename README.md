@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leonas von Medem</h1>
-<h3 align="center">I studyied Computer Science and work as a Software Developer</h3>
+<h3 align="center">Software Developer | Backend & Full-Stack Development</h3>
 
 -  I’m currently working at [PK System](https://pksystems.net/)
 
 -  How to reach me **leonas.medem@gmx.de**
 
-- Visit my Website [LeVoMe](levome.vercel.app)
+- Visit my Website [LeVoMe](https://levome.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leonas von medem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonas von medem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonasvonmedem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonas von medem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
